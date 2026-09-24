@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["KH9J35D7GR.com.claudevision.app"],
+        "components": [
+          {
+            "/": "/visionclaude/*",
+            "comment": "VisionClaude — Meta Wearables DAT registration callback"
+          }
+        ]
+      }
+    ]
+  }
+}
