@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["KH9J35D7GR.io.github.danil-theuser.visionclaude"],
+        "appIDs": ["KH9J35D7GR.io.github.daniltheuser.visionclaude"],
         "components": [
           {
             "/": "/visionclaude/*",
